@@ -1,5 +1,5 @@
 {
-  "name": "Pirate bay search",
+  "name": "Libgen search",
   "manifest_version": 3,
   "icons": {
     "16": "./img/ship.png",
@@ -7,7 +7,7 @@
     "128": "./img/ship.png"
   },
   "version": "2.0.1",
-  "description": "Pirate bay search bar",
+  "description": "Libgen search works as a support tool for searching content in multiple proxy servers, the same will allow you to select between a list of trusted proxy applications or let you choose a custom proxy in which you trust. Libgen search dev team will continuously upgrade the tool in order to provide available proxy servers from trusted sources",
   "action": {
     "default_popup": "index.html"
   },
