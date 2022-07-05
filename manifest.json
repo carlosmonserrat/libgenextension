@@ -2,9 +2,9 @@
   "name": "Libgen search",
   "manifest_version": 3,
   "icons": {
-    "16": "./img/ship.png",
-    "48": "./img/ship.png",
-    "128": "./img/ship.png"
+    "16": "./img/libicon.png",
+    "48": "./img/libicon.png",
+    "128": "./img/libicon.png"
   },
   "version": "2.0.1",
   "description": "Libgen search works as a support tool for searching content in multiple proxy servers",
