@@ -1,2 +1,2 @@
-# Quick pb search
-A quick search of torrents for pirate bay
+# Quick libgen search
+A quick search of torrents for libgen books
